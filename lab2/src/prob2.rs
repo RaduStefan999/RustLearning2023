@@ -2,7 +2,7 @@ use std::{io, fs};
 
 fn rotate_primitive(ch: char, a_cod: u32, z_cod: u32, rot_by: u32) -> char
 {
-    return char::from_u32((ch as u32 - a_cod + rot_by) % (z_cod - a_cod) + a_cod).unwrap();
+    return char::from_u32((ch as u32 - a_cod + rot_by) % (z_cod - a_cod + 1) + a_cod).unwrap();
 }
 
 fn rotate_lowercase(ch: char, rot_by: u8) -> char
