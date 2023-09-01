@@ -21,3 +21,8 @@ pub async fn get_data() -> Json<Vec<Value>> {
 
     return Json(vec![]);
 }
+
+#[get("/malina")]
+pub async fn get_malina() -> Json<String> {
+    return Json(String::from("Vei reusi Malina! Esti cea mai buna si am incredere in tine!!"));
+}

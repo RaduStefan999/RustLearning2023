@@ -1,6 +1,6 @@
 mod api;
 
-use api::data::get_data;
+use api::data::{get_data, get_malina};
 
 use actix_web::{HttpServer, App, middleware::Logger};
 
@@ -15,6 +15,7 @@ async fn main() -> std::io::Result<()> {
         App::new()
         .wrap(logger)
         .service(get_data)
+        .service(get_malina)
     })
     .bind(("127.0.0.1", 80))?
     .run()
