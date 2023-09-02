@@ -1,0 +1,1799 @@
+[smileys and people]
+😀 - grinning face
+😁 - grinning face with smiling eyes
+😂 - face with tears of joy
+🤣 - rolling on the floor laughing
+😃 - smiling face with open mouth
+😄 - smiling face with open mouth and smiling eyes ≊ smiling face with open mouth 
+😅 - smiling face with open mouth and cold sweat ≊ smiling face with open mouth 
+😆 - smiling face with open mouth and tightly-closed eyes ≊ smiling face with open mouth 
+😉 - winking face
+😊 - smiling face with smiling eyes
+😋 - face savouring delicious food
+😎 - smiling face with sunglasses
+😍 - smiling face with heart-shaped eyes ≊ smiling face with heart-eyes
+😘 - face throwing a kiss
+😗 - kissing face
+😙 - kissing face with smiling eyes
+😚 - kissing face with closed eyes
+☺ - white smiling face ≊ smiling face
+🙂 - slightly smiling face
+🤗 - hugging face
+🤔 - thinking face
+😐 - neutral face
+😑 - expressionless face
+😶 - face without mouth
+🙄 - face with rolling eyes
+😏 - smirking face
+😣 - persevering face
+😥 - disappointed but relieved face
+😮 - face with open mouth
+🤐 - zipper-mouth face
+😯 - hushed face
+😪 - sleepy face
+😫 - tired face
+😴 - sleeping face
+😌 - relieved face
+🤓 - nerd face
+😛 - face with stuck-out tongue
+😜 - face with stuck-out tongue and winking eye ≊ face with stuck-out tongue 
+😝 - face with stuck-out tongue and tightly-closed eyes ≊ face with stuck-out tongue 
+🤤 - drooling face
+😒 - unamused face
+😓 - face with cold sweat
+😔 - pensive face
+😕 - confused face
+🙃 - upside-down face
+🤑 - money-mouth face
+😲 - astonished face
+☹ - white frowning face ≊ frowning face
+🙁 - slightly frowning face
+😖 - confounded face
+😞 - disappointed face
+😟 - worried face
+😤 - face with look of triumph ≊ face with steam from nose
+😢 - crying face
+😭 - loudly crying face
+😦 - frowning face with open mouth
+😧 - anguished face
+😨 - fearful face
+😩 - weary face
+😬 - grimacing face
+😰 - face with open mouth and cold sweat ≊ face with open mouth 
+😱 - face screaming in fear
+😳 - flushed face
+😵 - dizzy face
+😡 - pouting face
+😠 - angry face
+😇 - smiling face with halo
+🤠 - face with cowboy hat ≊ cowboy hat face
+🤡 - clown face
+🤥 - lying face
+😷 - face with medical mask
+🤒 - face with thermometer
+🤕 - face with head-bandage
+🤢 - nauseated face
+🤧 - sneezing face
+😈 - smiling face with horns
+👿 - imp
+👹 - japanese ogre ≊ ogre
+👺 - japanese goblin ≊ goblin
+💀 - skull
+☠ - skull and crossbones
+👻 - ghost
+👽 - extraterrestrial alien ≊ alien
+👾 - alien monster
+🤖 - robot face
+💩 - pile of poo
+😺 - smiling cat face with open mouth
+😸 - grinning cat face with smiling eyes
+😹 - cat face with tears of joy
+😻 - smiling cat face with heart-shaped eyes ≊ smiling cat face with heart-eyes
+😼 - cat face with wry smile
+😽 - kissing cat face with closed eyes
+🙀 - weary cat face
+😿 - crying cat face
+😾 - pouting cat face
+🙈 - see-no-evil monkey ≊ see-no-evil
+🙉 - hear-no-evil monkey ≊ hear-no-evil
+🙊 - speak-no-evil monkey ≊ speak-no-evil
+👦 - boy
+👦 - boy, type-1-2
+👦 - boy, type-3
+👦 - boy, type-4
+👦 - boy, type-5
+👦 - boy, type-6
+👧 - girl
+👧 - girl, type-1-2
+👧 - girl, type-3
+👧 - girl, type-4
+👧 - girl, type-5
+👧 - girl, type-6
+👨 - man
+👨 - man, type-1-2
+👨 - man, type-3
+👨 - man, type-4
+👨 - man, type-5
+👨 - man, type-6
+👩 - woman
+👩 - woman, type-1-2
+👩 - woman, type-3
+👩 - woman, type-4
+👩 - woman, type-5
+👩 - woman, type-6
+👴 - older man ≊ old man
+👴 - old man, type-1-2
+👴 - old man, type-3
+👴 - old man, type-4
+👴 - old man, type-5
+👴 - old man, type-6
+👵 - older woman ≊ old woman
+👵 - old woman, type-1-2
+👵 - old woman, type-3
+👵 - old woman, type-4
+👵 - old woman, type-5
+👵 - old woman, type-6
+👶 - baby
+👶 - baby, type-1-2
+👶 - baby, type-3
+👶 - baby, type-4
+👶 - baby, type-5
+👶 - baby, type-6
+👼 - baby angel
+👼 - baby angel, type-1-2
+👼 - baby angel, type-3
+👼 - baby angel, type-4
+👼 - baby angel, type-5
+👼 - baby angel, type-6
+👮 - police officer
+👮 - police officer, type-1-2
+👮 - police officer, type-3
+👮 - police officer, type-4
+👮 - police officer, type-5
+👮 - police officer, type-6
+🕵 - sleuth or spy ≊ detective
+🕵 - detective, type-1-2
+🕵 - detective, type-3
+🕵 - detective, type-4
+🕵 - detective, type-5
+🕵 - detective, type-6
+💂 - guardsman
+💂 - guardsman, type-1-2
+💂 - guardsman, type-3
+💂 - guardsman, type-4
+💂 - guardsman, type-5
+💂 - guardsman, type-6
+👷 - construction worker
+👷 - construction worker, type-1-2
+👷 - construction worker, type-3
+👷 - construction worker, type-4
+👷 - construction worker, type-5
+👷 - construction worker, type-6
+👳 - man with turban ≊ person with turban
+👳 - person with turban, type-1-2
+👳 - person with turban, type-3
+👳 - person with turban, type-4
+👳 - person with turban, type-5
+👳 - person with turban, type-6
+👱 - person with blond hair ≊ blond person
+👱 - blond person, type-1-2
+👱 - blond person, type-3
+👱 - blond person, type-4
+👱 - blond person, type-5
+👱 - blond person, type-6
+🎅 - father christmas ≊ santa claus
+🎅 - santa claus, type-1-2
+🎅 - santa claus, type-3
+🎅 - santa claus, type-4
+🎅 - santa claus, type-5
+🎅 - santa claus, type-6
+🤶 - mother christmas
+🤶 - mother christmas, type-1-2
+🤶 - mother christmas, type-3
+🤶 - mother christmas, type-4
+🤶 - mother christmas, type-5
+🤶 - mother christmas, type-6
+👸 - princess
+👸 - princess, type-1-2
+👸 - princess, type-3
+👸 - princess, type-4
+👸 - princess, type-5
+👸 - princess, type-6
+🤴 - prince
+🤴 - prince, type-1-2
+🤴 - prince, type-3
+🤴 - prince, type-4
+🤴 - prince, type-5
+🤴 - prince, type-6
+👰 - bride with veil
+👰 - bride with veil, type-1-2
+👰 - bride with veil, type-3
+👰 - bride with veil, type-4
+👰 - bride with veil, type-5
+👰 - bride with veil, type-6
+🤵 - man in tuxedo
+🤵 - man in tuxedo, type-1-2
+🤵 - man in tuxedo, type-3
+🤵 - man in tuxedo, type-4
+🤵 - man in tuxedo, type-5
+🤵 - man in tuxedo, type-6
+🤰 - pregnant woman
+🤰 - pregnant woman, type-1-2
+🤰 - pregnant woman, type-3
+🤰 - pregnant woman, type-4
+🤰 - pregnant woman, type-5
+🤰 - pregnant woman, type-6
+👲 - man with gua pi mao ≊ man with chinese cap
+👲 - man with chinese cap, type-1-2
+👲 - man with chinese cap, type-3
+👲 - man with chinese cap, type-4
+👲 - man with chinese cap, type-5
+👲 - man with chinese cap, type-6
+🙍 - person frowning
+🙍 - person frowning, type-1-2
+🙍 - person frowning, type-3
+🙍 - person frowning, type-4
+🙍 - person frowning, type-5
+🙍 - person frowning, type-6
+🙎 - person with pouting face ≊ person pouting
+🙎 - person pouting, type-1-2
+🙎 - person pouting, type-3
+🙎 - person pouting, type-4
+🙎 - person pouting, type-5
+🙎 - person pouting, type-6
+🙅 - face with no good gesture ≊ person gesturing not ok
+🙅 - person gesturing not ok, type-1-2
+🙅 - person gesturing not ok, type-3
+🙅 - person gesturing not ok, type-4
+🙅 - person gesturing not ok, type-5
+🙅 - person gesturing not ok, type-6
+🙆 - face with ok gesture ≊ person gesturing ok
+🙆 - person gesturing ok, type-1-2
+🙆 - person gesturing ok, type-3
+🙆 - person gesturing ok, type-4
+🙆 - person gesturing ok, type-5
+🙆 - person gesturing ok, type-6
+💁 - information desk person ≊ person tipping hand
+💁 - person tipping hand, type-1-2
+💁 - person tipping hand, type-3
+💁 - person tipping hand, type-4
+💁 - person tipping hand, type-5
+💁 - person tipping hand, type-6
+🙋 - happy person raising one hand ≊ person raising hand
+🙋 - person raising hand, type-1-2
+🙋 - person raising hand, type-3
+🙋 - person raising hand, type-4
+🙋 - person raising hand, type-5
+🙋 - person raising hand, type-6
+🙇 - person bowing deeply ≊ person bowing
+🙇 - person bowing, type-1-2
+🙇 - person bowing, type-3
+🙇 - person bowing, type-4
+🙇 - person bowing, type-5
+🙇 - person bowing, type-6
+🤦 - face palm ≊ person facepalming
+🤦 - person facepalming, type-1-2
+🤦 - person facepalming, type-3
+🤦 - person facepalming, type-4
+🤦 - person facepalming, type-5
+🤦 - person facepalming, type-6
+🤷 - shrug ≊ person shrugging
+🤷 - person shrugging, type-1-2
+🤷 - person shrugging, type-3
+🤷 - person shrugging, type-4
+🤷 - person shrugging, type-5
+🤷 - person shrugging, type-6
+💆 - face massage ≊ person getting massage
+💆 - person getting massage, type-1-2
+💆 - person getting massage, type-3
+💆 - person getting massage, type-4
+💆 - person getting massage, type-5
+💆 - person getting massage, type-6
+💇 - haircut ≊ person getting haircut
+💇 - person getting haircut, type-1-2
+💇 - person getting haircut, type-3
+💇 - person getting haircut, type-4
+💇 - person getting haircut, type-5
+💇 - person getting haircut, type-6
+🚶 - pedestrian ≊ person walking
+🚶 - person walking, type-1-2
+🚶 - person walking, type-3
+🚶 - person walking, type-4
+🚶 - person walking, type-5
+🚶 - person walking, type-6
+🏃 - runner ≊ person running
+🏃 - person running, type-1-2
+🏃 - person running, type-3
+🏃 - person running, type-4
+🏃 - person running, type-5
+🏃 - person running, type-6
+💃 - dancer ≊ woman dancing
+💃 - woman dancing, type-1-2
+💃 - woman dancing, type-3
+💃 - woman dancing, type-4
+💃 - woman dancing, type-5
+💃 - woman dancing, type-6
+🕺 - man dancing
+🕺 - man dancing, type-1-2
+🕺 - man dancing, type-3
+🕺 - man dancing, type-4
+🕺 - man dancing, type-5
+🕺 - man dancing, type-6
+👯 - woman with bunny ears ≊ people partying
+🕴 - man in business suit levitating
+🗣 - speaking head in silhouette ≊ speaking head
+👤 - bust in silhouette
+👥 - busts in silhouette
+👫 - man and woman holding hands
+👬 - two men holding hands
+👭 - two women holding hands
+💏 - kiss
+👩 - kiss, woman, man
+👨 - kiss, man, man
+👩 - kiss, woman, woman
+💑 - couple with heart
+👩 - couple with heart, woman, man
+👨 - couple with heart, man, man
+👩 - couple with heart, woman, woman
+👪 - family
+👨 - family, man, woman, boy
+👨 - family, man, woman, girl
+👨 - family, man, woman, girl, boy
+👨 - family, man, woman, boy, boy
+👨 - family, man, woman, girl, girl
+👨 - family, man, man, boy
+👨 - family, man, man, girl
+👨 - family, man, man, girl, boy
+👨 - family, man, man, boy, boy
+👨 - family, man, man, girl, girl
+👩 - family, woman, woman, boy
+👩 - family, woman, woman, girl
+👩 - family, woman, woman, girl, boy
+👩 - family, woman, woman, boy, boy
+👩 - family, woman, woman, girl, girl
+🏻 - emoji modifier fitzpatrick type-1-2 ≊ type-1-2
+🏼 - emoji modifier fitzpatrick type-3 ≊ type-3
+🏽 - emoji modifier fitzpatrick type-4 ≊ type-4
+🏾 - emoji modifier fitzpatrick type-5 ≊ type-5
+🏿 - emoji modifier fitzpatrick type-6 ≊ type-6
+💪 - flexed biceps
+💪 - flexed biceps, type-1-2
+💪 - flexed biceps, type-3
+💪 - flexed biceps, type-4
+💪 - flexed biceps, type-5
+💪 - flexed biceps, type-6
+🤳 - selfie
+🤳 - selfie, type-1-2
+🤳 - selfie, type-3
+🤳 - selfie, type-4
+🤳 - selfie, type-5
+🤳 - selfie, type-6
+👈 - white left pointing backhand index ≊ backhand index pointing left
+👈 - backhand index pointing left, type-1-2
+👈 - backhand index pointing left, type-3
+👈 - backhand index pointing left, type-4
+👈 - backhand index pointing left, type-5
+👈 - backhand index pointing left, type-6
+👉 - white right pointing backhand index ≊ backhand index pointing right
+👉 - backhand index pointing right, type-1-2
+👉 - backhand index pointing right, type-3
+👉 - backhand index pointing right, type-4
+👉 - backhand index pointing right, type-5
+👉 - backhand index pointing right, type-6
+☝ - white up pointing index ≊ index pointing up
+☝ - index pointing up, type-1-2
+☝ - index pointing up, type-3
+☝ - index pointing up, type-4
+☝ - index pointing up, type-5
+☝ - index pointing up, type-6
+👆 - white up pointing backhand index ≊ backhand index pointing up
+👆 - backhand index pointing up, type-1-2
+👆 - backhand index pointing up, type-3
+👆 - backhand index pointing up, type-4
+👆 - backhand index pointing up, type-5
+👆 - backhand index pointing up, type-6
+🖕 - reversed hand with middle finger extended ≊ middle finger
+🖕 - middle finger, type-1-2
+🖕 - middle finger, type-3
+🖕 - middle finger, type-4
+🖕 - middle finger, type-5
+🖕 - middle finger, type-6
+👇 - white down pointing backhand index ≊ backhand index pointing down
+👇 - backhand index pointing down, type-1-2
+👇 - backhand index pointing down, type-3
+👇 - backhand index pointing down, type-4
+👇 - backhand index pointing down, type-5
+👇 - backhand index pointing down, type-6
+✌ - victory hand
+✌ - victory hand, type-1-2
+✌ - victory hand, type-3
+✌ - victory hand, type-4
+✌ - victory hand, type-5
+✌ - victory hand, type-6
+🤞 - hand with index and middle fingers crossed ≊ crossed fingers
+🤞 - crossed fingers, type-1-2
+🤞 - crossed fingers, type-3
+🤞 - crossed fingers, type-4
+🤞 - crossed fingers, type-5
+🤞 - crossed fingers, type-6
+🖖 - raised hand with part between middle and ring fingers ≊ vulcan salute
+🖖 - vulcan salute, type-1-2
+🖖 - vulcan salute, type-3
+🖖 - vulcan salute, type-4
+🖖 - vulcan salute, type-5
+🖖 - vulcan salute, type-6
+🤘 - sign of the horns
+🤘 - sign of the horns, type-1-2
+🤘 - sign of the horns, type-3
+🤘 - sign of the horns, type-4
+🤘 - sign of the horns, type-5
+🤘 - sign of the horns, type-6
+🤙 - call me hand
+🤙 - call me hand, type-1-2
+🤙 - call me hand, type-3
+🤙 - call me hand, type-4
+🤙 - call me hand, type-5
+🤙 - call me hand, type-6
+🖐 - raised hand with fingers splayed
+🖐 - raised hand with fingers splayed, type-1-2
+🖐 - raised hand with fingers splayed, type-3
+🖐 - raised hand with fingers splayed, type-4
+🖐 - raised hand with fingers splayed, type-5
+🖐 - raised hand with fingers splayed, type-6
+✋ - raised hand
+✋ - raised hand, type-1-2
+✋ - raised hand, type-3
+✋ - raised hand, type-4
+✋ - raised hand, type-5
+✋ - raised hand, type-6
+👌 - ok hand sign ≊ ok hand
+👌 - ok hand, type-1-2
+👌 - ok hand, type-3
+👌 - ok hand, type-4
+👌 - ok hand, type-5
+👌 - ok hand, type-6
+👍 - thumbs up sign ≊ thumbs up
+👍 - thumbs up, type-1-2
+👍 - thumbs up, type-3
+👍 - thumbs up, type-4
+👍 - thumbs up, type-5
+👍 - thumbs up, type-6
+👎 - thumbs down sign ≊ thumbs down
+👎 - thumbs down, type-1-2
+👎 - thumbs down, type-3
+👎 - thumbs down, type-4
+👎 - thumbs down, type-5
+👎 - thumbs down, type-6
+✊ - raised fist
+✊ - raised fist, type-1-2
+✊ - raised fist, type-3
+✊ - raised fist, type-4
+✊ - raised fist, type-5
+✊ - raised fist, type-6
+👊 - fisted hand sign ≊ oncoming fist
+👊 - oncoming fist, type-1-2
+👊 - oncoming fist, type-3
+👊 - oncoming fist, type-4
+👊 - oncoming fist, type-5
+👊 - oncoming fist, type-6
+🤛 - left-facing fist
+🤛 - left-facing fist, type-1-2
+🤛 - left-facing fist, type-3
+🤛 - left-facing fist, type-4
+🤛 - left-facing fist, type-5
+🤛 - left-facing fist, type-6
+🤜 - right-facing fist
+🤜 - right-facing fist, type-1-2
+🤜 - right-facing fist, type-3
+🤜 - right-facing fist, type-4
+🤜 - right-facing fist, type-5
+🤜 - right-facing fist, type-6
+🤚 - raised back of hand
+🤚 - raised back of hand, type-1-2
+🤚 - raised back of hand, type-3
+🤚 - raised back of hand, type-4
+🤚 - raised back of hand, type-5
+🤚 - raised back of hand, type-6
+👋 - waving hand sign ≊ waving hand
+👋 - waving hand, type-1-2
+👋 - waving hand, type-3
+👋 - waving hand, type-4
+👋 - waving hand, type-5
+👋 - waving hand, type-6
+👏 - clapping hands sign ≊ clapping hands
+👏 - clapping hands, type-1-2
+👏 - clapping hands, type-3
+👏 - clapping hands, type-4
+👏 - clapping hands, type-5
+👏 - clapping hands, type-6
+✍ - writing hand
+✍ - writing hand, type-1-2
+✍ - writing hand, type-3
+✍ - writing hand, type-4
+✍ - writing hand, type-5
+✍ - writing hand, type-6
+👐 - open hands sign ≊ open hands
+👐 - open hands, type-1-2
+👐 - open hands, type-3
+👐 - open hands, type-4
+👐 - open hands, type-5
+👐 - open hands, type-6
+🙌 - person raising both hands in celebration ≊ person raising hands
+🙌 - person raising hands, type-1-2
+🙌 - person raising hands, type-3
+🙌 - person raising hands, type-4
+🙌 - person raising hands, type-5
+🙌 - person raising hands, type-6
+🙏 - person with folded hands ≊ folded hands
+🙏 - folded hands, type-1-2
+🙏 - folded hands, type-3
+🙏 - folded hands, type-4
+🙏 - folded hands, type-5
+🙏 - folded hands, type-6
+🤝 - handshake
+🤝 - handshake, type-1-2
+🤝 - handshake, type-3
+🤝 - handshake, type-4
+🤝 - handshake, type-5
+🤝 - handshake, type-6
+💅 - nail polish
+💅 - nail polish, type-1-2
+💅 - nail polish, type-3
+💅 - nail polish, type-4
+💅 - nail polish, type-5
+💅 - nail polish, type-6
+👂 - ear
+👂 - ear, type-1-2
+👂 - ear, type-3
+👂 - ear, type-4
+👂 - ear, type-5
+👂 - ear, type-6
+👃 - nose
+👃 - nose, type-1-2
+👃 - nose, type-3
+👃 - nose, type-4
+👃 - nose, type-5
+👃 - nose, type-6
+👣 - footprints
+👀 - eyes
+👁 - eye
+👁 - eye, left speech bubble
+👅 - tongue
+👄 - mouth
+💋 - kiss mark
+💘 - heart with arrow
+❤ - heavy black heart ≊ red heart
+💓 - beating heart
+💔 - broken heart
+💕 - two hearts
+💖 - sparkling heart
+💗 - growing heart
+💙 - blue heart
+💚 - green heart
+💛 - yellow heart
+💜 - purple heart
+🖤 - black heart
+💝 - heart with ribbon
+💞 - revolving hearts
+💟 - heart decoration
+❣ - heavy heart exclamation mark ornament ≊ heavy heart exclamation
+💌 - love letter
+💤 - sleeping symbol ≊ zzz
+💢 - anger symbol
+💣 - bomb
+💥 - collision symbol ≊ collision
+💦 - splashing sweat symbol ≊ sweat droplets
+💨 - dash symbol ≊ dashing
+💫 - dizzy symbol ≊ dizzy
+💬 - speech balloon
+🗨 - left speech bubble
+🗯 - right anger bubble
+💭 - thought balloon
+🕳 - hole
+👓 - eyeglasses ≊ glasses
+🕶 - dark sunglasses ≊ sunglasses
+👔 - necktie
+👕 - t-shirt
+👖 - jeans
+👗 - dress
+👘 - kimono
+👙 - bikini
+👚 - womans clothes ≊ womanâ€™s clothes
+👛 - purse
+👜 - handbag
+👝 - pouch
+🛍 - shopping bags
+🎒 - school satchel ≊ school backpack
+👞 - mans shoe ≊ manâ€™s shoe
+👟 - athletic shoe ≊ running shoe
+👠 - high-heeled shoe
+👡 - womans sandal ≊ womanâ€™s sandal
+👢 - womans boots ≊ womanâ€™s boot
+👑 - crown
+👒 - womans hat ≊ womanâ€™s hat
+🎩 - top hat
+🎓 - graduation cap
+⛑ - helmet with white cross
+📿 - prayer beads
+💄 - lipstick
+💍 - ring
+💎 - gem stone
+[travel and places]
+🌍 - earth globe europe-africa ≊ globe showing europe-africa
+🌎 - earth globe americas ≊ globe showing americas
+🌏 - earth globe asia-australia ≊ globe showing asia-australia
+🌐 - globe with meridians
+🗺 - world map
+🗾 - silhouette of japan ≊ map of japan
+🏔 - snow capped mountain ≊ snow-capped mountain
+⛰ - mountain
+🌋 - volcano
+🗻 - mount fuji
+🏕 - camping
+🏖 - beach with umbrella
+🏜 - desert
+🏝 - desert island
+🏞 - national park
+🏟 - stadium
+🏛 - classical building
+🏗 - building construction
+🏘 - house buildings
+🏙 - cityscape
+🏚 - derelict house building
+🏠 - house building
+🏡 - house with garden
+🏢 - office building
+🏣 - japanese post office
+🏤 - european post office ≊ post office
+🏥 - hospital
+🏦 - bank
+🏨 - hotel
+🏩 - love hotel
+🏪 - convenience store
+🏫 - school
+🏬 - department store
+🏭 - factory
+🏯 - japanese castle
+🏰 - european castle ≊ castle
+💒 - wedding
+🗼 - tokyo tower
+🗽 - statue of liberty
+⛪ - church
+🕌 - mosque
+🕍 - synagogue
+⛩ - shinto shrine
+🕋 - kaaba
+⛲ - fountain
+⛺ - tent
+🌁 - foggy
+🌃 - night with stars
+🌄 - sunrise over mountains
+🌅 - sunrise
+🌆 - cityscape at dusk
+🌇 - sunset over buildings ≊ sunset
+🌉 - bridge at night
+♨ - hot springs
+🌌 - milky way
+🎠 - carousel horse
+🎡 - ferris wheel
+🎢 - roller coaster
+💈 - barber pole
+🎪 - circus tent
+🎭 - performing arts
+🖼 - frame with picture
+🎨 - artist palette
+🎰 - slot machine
+🚂 - steam locomotive ≊ locomotive
+🚃 - railway car
+🚄 - high-speed train
+🚅 - high-speed train with bullet nose
+🚆 - train
+🚇 - metro
+🚈 - light rail
+🚉 - station
+🚊 - tram
+🚝 - monorail
+🚞 - mountain railway
+🚋 - tram car
+🚌 - bus
+🚍 - oncoming bus
+🚎 - trolleybus
+🚐 - minibus
+🚑 - ambulance
+🚒 - fire engine
+🚓 - police car
+🚔 - oncoming police car
+🚕 - taxi
+🚖 - oncoming taxi
+🚗 - automobile
+🚘 - oncoming automobile
+🚙 - recreational vehicle
+🚚 - delivery truck
+🚛 - articulated lorry
+🚜 - tractor
+🚲 - bicycle
+🛴 - scooter ≊ kick scooter
+🛵 - motor scooter
+🏎 - racing car
+🏍 - racing motorcycle ≊ motorcycle
+🚏 - bus stop
+🛣 - motorway
+🛤 - railway track
+⛽ - fuel pump
+🚨 - police cars revolving light ≊ police carâ€™s light
+🚥 - horizontal traffic light
+🚦 - vertical traffic light
+🚧 - construction sign ≊ construction
+🛑 - octagonal sign ≊ stop sign
+⚓ - anchor
+⛵ - sailboat
+🛶 - canoe
+🚤 - speedboat
+🛳 - passenger ship
+⛴ - ferry
+🛥 - motor boat
+🚢 - ship
+✈ - airplane
+🛩 - small airplane
+🛫 - airplane departure
+🛬 - airplane arriving ≊ airplane arrival
+💺 - seat
+🚁 - helicopter
+🚟 - suspension railway
+🚠 - mountain cableway
+🚡 - aerial tramway
+🚀 - rocket
+🛰 - satellite
+🛎 - bellhop bell
+🚪 - door
+🛌 - sleeping accommodation ≊ person in bed
+🛏 - bed
+🛋 - couch and lamp
+🚽 - toilet
+🚿 - shower
+🛀 - bath ≊ person taking bath
+🛀 - person taking bath, type-1-2
+🛀 - person taking bath, type-3
+🛀 - person taking bath, type-4
+🛀 - person taking bath, type-5
+🛀 - person taking bath, type-6
+🛁 - bathtub
+⌛ - hourglass
+⏳ - hourglass with flowing sand
+⌚ - watch
+⏰ - alarm clock
+⏱ - stopwatch
+⏲ - timer clock
+🕰 - mantelpiece clock
+🕛 - clock face twelve oclock ≊ twelve oâ€™clock
+🕧 - clock face twelve-thirty ≊ twelve-thirty
+🕐 - clock face one oclock ≊ one oâ€™clock
+🕜 - clock face one-thirty ≊ one-thirty
+🕑 - clock face two oclock ≊ two oâ€™clock
+🕝 - clock face two-thirty ≊ two-thirty
+🕒 - clock face three oclock ≊ three oâ€™clock
+🕞 - clock face three-thirty ≊ three-thirty
+🕓 - clock face four oclock ≊ four oâ€™clock
+🕟 - clock face four-thirty ≊ four-thirty
+🕔 - clock face five oclock ≊ five oâ€™clock
+🕠 - clock face five-thirty ≊ five-thirty
+🕕 - clock face six oclock ≊ six oâ€™clock
+🕡 - clock face six-thirty ≊ six-thirty
+🕖 - clock face seven oclock ≊ seven oâ€™clock
+🕢 - clock face seven-thirty ≊ seven-thirty
+🕗 - clock face eight oclock ≊ eight oâ€™clock
+🕣 - clock face eight-thirty ≊ eight-thirty
+🕘 - clock face nine oclock ≊ nine oâ€™clock
+🕤 - clock face nine-thirty ≊ nine-thirty
+🕙 - clock face ten oclock ≊ ten oâ€™clock
+🕥 - clock face ten-thirty ≊ ten-thirty
+🕚 - clock face eleven oclock ≊ eleven oâ€™clock
+🕦 - clock face eleven-thirty ≊ eleven-thirty
+🌑 - new moon symbol ≊ new moon
+🌒 - waxing crescent moon symbol ≊ waxing crescent moon
+🌓 - first quarter moon symbol ≊ first quarter moon
+🌔 - waxing gibbous moon symbol ≊ waxing gibbous moon
+🌕 - full moon symbol ≊ full moon
+🌖 - waning gibbous moon symbol ≊ waning gibbous moon
+🌗 - last quarter moon symbol ≊ last quarter moon
+🌘 - waning crescent moon symbol ≊ waning crescent moon
+🌙 - crescent moon
+🌚 - new moon with face ≊ new moon face
+🌛 - first quarter moon with face
+🌜 - last quarter moon with face
+🌡 - thermometer
+☀ - black sun with rays ≊ sun
+🌝 - full moon with face
+🌞 - sun with face
+⭐ - white medium star
+🌟 - glowing star
+🌠 - shooting star
+☁ - cloud
+⛅ - sun behind cloud
+⛈ - thunder cloud and rain ≊ cloud with lightning and rain
+🌤 - white sun with small cloud ≊ sun behind small cloud
+🌥 - white sun behind cloud ≊ sun behind large cloud
+🌦 - white sun behind cloud with rain ≊ sun behind cloud with rain
+🌧 - cloud with rain
+🌨 - cloud with snow
+🌩 - cloud with lightning
+🌪 - cloud with tornado ≊ tornado
+🌫 - fog
+🌬 - wind blowing face ≊ wind face
+🌀 - cyclone
+🌈 - rainbow
+🌂 - closed umbrella
+☂ - umbrella
+☔ - umbrella with rain drops
+⛱ - umbrella on ground
+⚡ - high voltage sign ≊ high voltage
+❄ - snowflake
+☃ - snowman
+⛄ - snowman without snow
+☄ - comet
+🔥 - fire
+💧 - droplet
+🌊 - water wave
+[objects]
+🔇 - speaker with cancellation stroke ≊ speaker off
+🔈 - speaker
+🔉 - speaker with one sound wave ≊ speaker on
+🔊 - speaker with three sound waves ≊ speaker loud
+📢 - public address loudspeaker ≊ loudspeaker
+📣 - cheering megaphone ≊ megaphone
+📯 - postal horn
+🔔 - bell
+🔕 - bell with cancellation stroke ≊ bell with slash
+🎼 - musical score
+🎵 - musical note
+🎶 - multiple musical notes ≊ musical notes
+🎙 - studio microphone
+🎚 - level slider
+🎛 - control knobs
+🎤 - microphone
+🎧 - headphone
+📻 - radio
+🎷 - saxophone
+🎸 - guitar
+🎹 - musical keyboard
+🎺 - trumpet
+🎻 - violin
+🥁 - drum with drumsticks ≊ drum
+📱 - mobile phone
+📲 - mobile phone with rightwards arrow at left ≊ mobile phone with arrow
+☎ - black telephone ≊ telephone
+📞 - telephone receiver
+📟 - pager
+📠 - fax machine
+🔋 - battery
+🔌 - electric plug
+💻 - personal computer ≊ laptop computer
+🖥 - desktop computer
+🖨 - printer
+⌨ - keyboard
+🖱 - three button mouse ≊ computer mouse
+🖲 - trackball
+💽 - minidisc
+💾 - floppy disk
+💿 - optical disc
+📀 - dvd
+🎥 - movie camera
+🎞 - film frames
+📽 - film projector
+🎬 - clapper board
+📺 - television
+📷 - camera
+📸 - camera with flash
+📹 - video camera
+📼 - videocassette
+🔍 - left-pointing magnifying glass
+🔎 - right-pointing magnifying glass
+🔬 - microscope
+🔭 - telescope
+📡 - satellite antenna
+🕯 - candle
+💡 - electric light bulb ≊ light bulb
+🔦 - electric torch ≊ flashlight
+🏮 - izakaya lantern ≊ red paper lantern
+📔 - notebook with decorative cover
+📕 - closed book
+📖 - open book
+📗 - green book
+📘 - blue book
+📙 - orange book
+📚 - books
+📓 - notebook
+📒 - ledger
+📃 - page with curl
+📜 - scroll
+📄 - page facing up
+📰 - newspaper
+🗞 - rolled-up newspaper
+📑 - bookmark tabs
+🔖 - bookmark
+🏷 - label
+💰 - money bag
+💴 - banknote with yen sign ≊ yen banknote
+💵 - banknote with dollar sign ≊ dollar banknote
+💶 - banknote with euro sign ≊ euro banknote
+💷 - banknote with pound sign ≊ pound banknote
+💸 - money with wings
+💳 - credit card
+💹 - chart with upwards trend and yen sign ≊ chart increasing with yen
+💱 - currency exchange
+💲 - heavy dollar sign
+✉ - envelope
+📧 - e-mail symbol ≊ e-mail
+📨 - incoming envelope
+📩 - envelope with downwards arrow above ≊ envelope with arrow
+📤 - outbox tray
+📥 - inbox tray
+📦 - package
+📫 - closed mailbox with raised flag
+📪 - closed mailbox with lowered flag
+📬 - open mailbox with raised flag
+📭 - open mailbox with lowered flag
+📮 - postbox
+🗳 - ballot box with ballot
+✏ - pencil
+✒ - black nib
+🖋 - lower left fountain pen ≊ fountain pen
+🖊 - lower left ballpoint pen ≊ pen
+🖌 - lower left paintbrush ≊ paintbrush
+🖍 - lower left crayon ≊ crayon
+📝 - memo
+💼 - briefcase
+📁 - file folder
+📂 - open file folder
+🗂 - card index dividers
+📅 - calendar
+📆 - tear-off calendar
+🗒 - spiral note pad ≊ spiral notepad
+🗓 - spiral calendar pad ≊ spiral calendar
+📇 - card index
+📈 - chart with upwards trend ≊ chart increasing
+📉 - chart with downwards trend ≊ chart decreasing
+📊 - bar chart
+📋 - clipboard
+📌 - pushpin
+📍 - round pushpin
+📎 - paperclip
+🖇 - linked paperclips
+📏 - straight ruler
+📐 - triangular ruler
+✂ - black scissors ≊ scissors
+🗃 - card file box
+🗄 - file cabinet
+🗑 - wastebasket
+🔒 - lock
+🔓 - open lock
+🔏 - lock with ink pen ≊ lock with pen
+🔐 - closed lock with key
+🔑 - key
+🗝 - old key
+🔨 - hammer
+⛏ - pick
+⚒ - hammer and pick
+🛠 - hammer and wrench
+🗡 - dagger knife ≊ dagger
+⚔ - crossed swords
+🔫 - pistol
+🏹 - bow and arrow
+🛡 - shield
+🔧 - wrench
+🔩 - nut and bolt
+⚙ - gear
+🗜 - compression
+⚗ - alembic
+⚖ - scales ≊ balance scale
+🔗 - link symbol ≊ link
+⛓ - chains
+💉 - syringe
+💊 - pill
+🚬 - smoking symbol ≊ smoking
+⚰ - coffin
+⚱ - funeral urn
+🗿 - moyai ≊ moai
+🛢 - oil drum
+🔮 - crystal ball
+🛒 - shopping trolley ≊ shopping cart
+[food and drink]
+🍇 - grapes
+🍈 - melon
+🍉 - watermelon
+🍊 - tangerine
+🍋 - lemon
+🍌 - banana
+🍍 - pineapple
+🍎 - red apple
+🍏 - green apple
+🍐 - pear
+🍑 - peach
+🍒 - cherries
+🍓 - strawberry
+🥝 - kiwifruit
+🍅 - tomato
+🥑 - avocado
+🍆 - aubergine ≊ eggplant
+🥔 - potato
+🥕 - carrot
+🌽 - ear of maize ≊ ear of corn
+🌶 - hot pepper
+🥒 - cucumber
+🍄 - mushroom
+🥜 - peanuts
+🌰 - chestnut
+🍞 - bread
+🥐 - croissant
+🥖 - baguette bread
+🥞 - pancakes
+🧀 - cheese wedge
+🍖 - meat on bone
+🍗 - poultry leg
+🥓 - bacon
+🍔 - hamburger
+🍟 - french fries
+🍕 - slice of pizza ≊ pizza
+🌭 - hot dog
+🌮 - taco
+🌯 - burrito
+🥙 - stuffed flatbread
+🥚 - egg
+🍳 - cooking
+🥘 - shallow pan of food
+🍲 - pot of food
+🥗 - green salad
+🍿 - popcorn
+🍱 - bento box
+🍘 - rice cracker
+🍙 - rice ball
+🍚 - cooked rice
+🍛 - curry and rice ≊ curry rice
+🍜 - steaming bowl
+🍝 - spaghetti
+🍠 - roasted sweet potato
+🍢 - oden
+🍣 - sushi
+🍤 - fried shrimp
+🍥 - fish cake with swirl design ≊ fish cake with swirl
+🍡 - dango
+🍦 - soft ice cream
+🍧 - shaved ice
+🍨 - ice cream
+🍩 - doughnut
+🍪 - cookie
+🎂 - birthday cake
+🍰 - shortcake
+🍫 - chocolate bar
+🍬 - candy
+🍭 - lollipop
+🍮 - custard
+🍯 - honey pot
+🍼 - baby bottle
+🥛 - glass of milk
+☕ - hot beverage
+🍵 - teacup without handle
+🍶 - sake bottle and cup ≊ sake
+🍾 - bottle with popping cork
+🍷 - wine glass
+🍸 - cocktail glass
+🍹 - tropical drink
+🍺 - beer mug
+🍻 - clinking beer mugs
+🥂 - clinking glasses
+🥃 - tumbler glass
+🍽 - fork and knife with plate
+🍴 - fork and knife
+🥄 - spoon
+🔪 - hocho ≊ kitchen knife
+🏺 - amphora
+[animals and nature]
+🐵 - monkey face
+🐒 - monkey
+🦍 - gorilla
+🐶 - dog face
+🐕 - dog
+🐩 - poodle
+🐺 - wolf face
+🦊 - fox face
+🐱 - cat face
+🐈 - cat
+🦁 - lion face
+🐯 - tiger face
+🐅 - tiger
+🐆 - leopard
+🐴 - horse face
+🐎 - horse
+🦌 - deer
+🦄 - unicorn face
+🐮 - cow face
+🐂 - ox
+🐃 - water buffalo
+🐄 - cow
+🐷 - pig face
+🐖 - pig
+🐗 - boar
+🐽 - pig nose
+🐏 - ram
+🐑 - sheep
+🐐 - goat
+🐪 - dromedary camel ≊ camel
+🐫 - bactrian camel ≊ two-hump camel
+🐘 - elephant
+🦏 - rhinoceros
+🐭 - mouse face
+🐁 - mouse
+🐀 - rat
+🐹 - hamster face
+🐰 - rabbit face
+🐇 - rabbit
+🐿 - chipmunk
+🦇 - bat
+🐻 - bear face
+🐨 - koala
+🐼 - panda face
+🐾 - paw prints
+🦃 - turkey
+🐔 - chicken
+🐓 - rooster
+🐣 - hatching chick
+🐤 - baby chick
+🐥 - front-facing baby chick
+🐦 - bird
+🐧 - penguin
+🕊 - dove of peace ≊ dove
+🦅 - eagle
+🦆 - duck
+🦉 - owl
+🐸 - frog face
+🐊 - crocodile
+🐢 - turtle
+🦎 - lizard
+🐍 - snake
+🐲 - dragon face
+🐉 - dragon
+🐳 - spouting whale
+🐋 - whale
+🐬 - dolphin
+🐟 - fish
+🐠 - tropical fish
+🐡 - blowfish
+🦈 - shark
+🐙 - octopus
+🐚 - spiral shell
+🦀 - crab
+🦐 - shrimp
+🦑 - squid
+🦋 - butterfly
+🐌 - snail
+🐛 - bug
+🐜 - ant
+🐝 - honeybee
+🐞 - lady beetle
+🕷 - spider
+🕸 - spider web
+🦂 - scorpion
+💐 - bouquet
+🌸 - cherry blossom
+💮 - white flower
+🏵 - rosette
+🌹 - rose
+🥀 - wilted flower
+🌺 - hibiscus
+🌻 - sunflower
+🌼 - blossom
+🌷 - tulip
+🌱 - seedling
+🌲 - evergreen tree ≊ evergreen
+🌳 - deciduous tree
+🌴 - palm tree
+🌵 - cactus
+🌾 - ear of rice ≊ sheaf of rice
+🌿 - herb
+☘ - shamrock
+🍀 - four leaf clover
+🍁 - maple leaf
+🍂 - fallen leaf
+🍃 - leaf fluttering in wind
+[activities]
+🎃 - jack-o-lantern
+🎄 - christmas tree
+🎆 - fireworks
+🎇 - firework sparkler ≊ sparkler
+✨ - sparkles
+🎈 - balloon
+🎉 - party popper
+🎊 - confetti ball
+🎋 - tanabata tree
+🎍 - pine decoration
+🎎 - japanese dolls
+🎏 - carp streamer
+🎐 - wind chime
+🎑 - moon viewing ceremony ≊ moon ceremony
+🎀 - ribbon
+🎁 - wrapped present
+🎗 - reminder ribbon
+🎟 - admission tickets
+🎫 - ticket
+🎖 - military medal
+🏆 - trophy
+🏅 - sports medal
+🥇 - first place medal ≊ 1st place medal
+🥈 - second place medal ≊ 2nd place medal
+🥉 - third place medal ≊ 3rd place medal
+⚽ - soccer ball
+⚾ - baseball
+🏀 - basketball and hoop ≊ basketball
+🏐 - volleyball
+🏈 - american football
+🏉 - rugby football
+🎾 - tennis racquet and ball ≊ tennis
+🎱 - billiards
+🎳 - bowling
+🏏 - cricket bat and ball ≊ cricket
+🏑 - field hockey stick and ball ≊ field hockey
+🏒 - ice hockey stick and puck
+🏓 - table tennis paddle and ball ≊ ping pong
+🏸 - badminton racquet and shuttlecock ≊ badminton
+🥊 - boxing glove
+🥋 - martial arts uniform
+🥅 - goal net
+🎯 - direct hit
+⛳ - flag in hole
+⛸ - ice skate
+🎣 - fishing pole and fish ≊ fishing pole
+🎽 - running shirt with sash ≊ running shirt
+🎿 - ski and ski boot ≊ skis
+🤺 - fencer ≊ person fencing
+🏇 - horse racing
+⛷ - skier
+🏂 - snowboarder
+🏌 - golfer ≊ person golfing
+🏄 - surfer ≊ person surfing
+🏄 - person surfing, type-1-2
+🏄 - person surfing, type-3
+🏄 - person surfing, type-4
+🏄 - person surfing, type-5
+🏄 - person surfing, type-6
+🚣 - rowboat ≊ person rowing boat
+🚣 - person rowing boat, type-1-2
+🚣 - person rowing boat, type-3
+🚣 - person rowing boat, type-4
+🚣 - person rowing boat, type-5
+🚣 - person rowing boat, type-6
+🏊 - swimmer ≊ person swimming
+🏊 - person swimming, type-1-2
+🏊 - person swimming, type-3
+🏊 - person swimming, type-4
+🏊 - person swimming, type-5
+🏊 - person swimming, type-6
+⛹ - person with ball
+⛹ - person with ball, type-1-2
+⛹ - person with ball, type-3
+⛹ - person with ball, type-4
+⛹ - person with ball, type-5
+⛹ - person with ball, type-6
+🏋 - weight lifter ≊ person weight lifting
+🏋 - person weight lifting, type-1-2
+🏋 - person weight lifting, type-3
+🏋 - person weight lifting, type-4
+🏋 - person weight lifting, type-5
+🏋 - person weight lifting, type-6
+🚴 - bicyclist ≊ person biking
+🚴 - person biking, type-1-2
+🚴 - person biking, type-3
+🚴 - person biking, type-4
+🚴 - person biking, type-5
+🚴 - person biking, type-6
+🚵 - mountain bicyclist ≊ person mountain biking
+🚵 - person mountain biking, type-1-2
+🚵 - person mountain biking, type-3
+🚵 - person mountain biking, type-4
+🚵 - person mountain biking, type-5
+🚵 - person mountain biking, type-6
+🤸 - person doing cartwheel
+🤸 - person doing cartwheel, type-1-2
+🤸 - person doing cartwheel, type-3
+🤸 - person doing cartwheel, type-4
+🤸 - person doing cartwheel, type-5
+🤸 - person doing cartwheel, type-6
+🤼 - wrestlers ≊ people wrestling
+🤼 - people wrestling, type-1-2
+🤼 - people wrestling, type-3
+🤼 - people wrestling, type-4
+🤼 - people wrestling, type-5
+🤼 - people wrestling, type-6
+🤽 - water polo ≊ person playing water polo
+🤽 - person playing water polo, type-1-2
+🤽 - person playing water polo, type-3
+🤽 - person playing water polo, type-4
+🤽 - person playing water polo, type-5
+🤽 - person playing water polo, type-6
+🤾 - handball ≊ person playing handball
+🤾 - person playing handball, type-1-2
+🤾 - person playing handball, type-3
+🤾 - person playing handball, type-4
+🤾 - person playing handball, type-5
+🤾 - person playing handball, type-6
+🤹 - juggling ≊ person juggling
+🤹 - person juggling, type-1-2
+🤹 - person juggling, type-3
+🤹 - person juggling, type-4
+🤹 - person juggling, type-5
+🤹 - person juggling, type-6
+🎮 - video game
+🕹 - joystick
+🎲 - game die
+♠ - black spade suit ≊ spade suit
+♥ - black heart suit ≊ heart suit
+♦ - black diamond suit ≊ diamond suit
+♣ - black club suit ≊ club suit
+🃏 - playing card black joker ≊ joker
+🀄 - mahjong tile red dragon ≊ mahjong red dragon
+🎴 - flower playing cards
+[symbols]
+🏧 - automated teller machine ≊ atm sign
+🚮 - put litter in its place symbol ≊ litter in bin sign
+🚰 - potable water symbol ≊ potable water
+♿ - wheelchair symbol ≊ wheelchair
+🚹 - mens symbol ≊ men’s room
+🚺 - womens symbol ≊ women’s room
+🚻 - restroom
+🚼 - baby symbol
+🚾 - water closet
+🛂 - passport control
+🛃 - customs
+🛄 - baggage claim
+🛅 - left luggage
+⚠ - warning sign ≊ warning
+🚸 - children crossing
+⛔ - no entry
+🚫 - no entry sign ≊ prohibited
+🚳 - no bicycles
+🚭 - no smoking symbol ≊ no smoking
+🚯 - do not litter symbol ≊ no littering
+🚱 - non-potable water symbol ≊ non-potable water
+🚷 - no pedestrians
+📵 - no mobile phones
+🔞 - no one under eighteen symbol ≊ no one under eighteen
+☢ - radioactive sign ≊ radioactive
+☣ - biohazard sign ≊ biohazard
+⬆ - upwards black arrow ≊ up arrow
+↗ - north east arrow ≊ up-right arrow
+➡ - black rightwards arrow ≊ right arrow
+↘ - south east arrow ≊ down-right arrow
+⬇ - downwards black arrow ≊ down arrow
+↙ - south west arrow ≊ down-left arrow
+⬅ - leftwards black arrow ≊ left arrow
+↖ - north west arrow ≊ up-left arrow
+↕ - up down arrow ≊ up-down arrow
+↔ - left right arrow ≊ left-right arrow
+↩ - leftwards arrow with hook ≊ right arrow curving left
+↪ - rightwards arrow with hook ≊ left arrow curving right
+⤴ - arrow pointing rightwards then curving upwards ≊ right arrow curving up
+⤵ - arrow pointing rightwards then curving downwards ≊ right arrow curving down
+🔃 - clockwise downwards and upwards open circle arrows ≊ clockwise vertical arrows
+🔄 - anticlockwise downwards and upwards open circle arrows ≊ anticlockwise arrows button
+🔙 - back with leftwards arrow above ≊ back arrow
+🔚 - end with leftwards arrow above ≊ end arrow
+🔛 - on with exclamation mark with left right arrow above ≊ on! arrow
+🔜 - soon with rightwards arrow above ≊ soon arrow
+🔝 - top with upwards arrow above ≊ top arrow
+🛐 - place of worship
+⚛ - atom symbol
+🕉 - om symbol ≊ om
+✡ - star of david
+☸ - wheel of dharma
+☯ - yin yang
+✝ - latin cross
+☦ - orthodox cross
+☪ - star and crescent
+☮ - peace symbol
+🕎 - menorah with nine branches ≊ menorah
+🔯 - six pointed star with middle dot ≊ dotted six-pointed star
+♻ - black universal recycling symbol ≊ recycling symbol
+📛 - name badge
+⚜ - fleur-de-lis
+🔰 - japanese symbol for beginner
+🔱 - trident emblem
+⭕ - heavy large circle
+✅ - white heavy check mark
+☑ - ballot box with check
+✔ - heavy check mark
+✖ - heavy multiplication x
+❌ - cross mark
+❎ - negative squared cross mark ≊ cross mark button
+➕ - heavy plus sign
+➖ - heavy minus sign
+➗ - heavy division sign
+➰ - curly loop
+➿ - double curly loop
+〽 - part alternation mark
+✳ - eight spoked asterisk ≊ eight-spoked asterisk
+✴ - eight pointed black star ≊ eight-pointed star
+❇ - sparkle
+‼ - double exclamation mark
+⁉ - exclamation question mark
+❓ - black question mark ornament ≊ question mark
+❔ - white question mark ornament ≊ white question mark
+❕ - white exclamation mark ornament ≊ white exclamation mark
+❗ - heavy exclamation mark symbol ≊ exclamation mark
+〰 - wavy dash
+© - copyright sign ≊ copyright
+® - registered sign ≊ registered
+™ - trade mark sign ≊ trade mark
+♈ - aries
+♉ - taurus
+♊ - gemini
+♋ - cancer
+♌ - leo
+♍ - virgo
+♎ - libra
+♏ - scorpius
+♐ - sagittarius
+♑ - capricorn
+♒ - aquarius
+♓ - pisces
+⛎ - ophiuchus
+🔀 - twisted rightwards arrows ≊ shuffle tracks button
+🔁 - clockwise rightwards and leftwards open circle arrows ≊ repeat button
+🔂 - clockwise rightwards and leftwards open circle arrows with circled one overlay ≊ repeat single button
+▶ - black right-pointing triangle ≊ play button
+⏩ - black right-pointing double triangle ≊ fast-forword button
+⏭ - black right-pointing double triangle with vertical bar ≊ next track button
+⏯ - black right-pointing triangle with double vertical bar ≊ play or pause button
+◀ - black left-pointing triangle ≊ reverse button
+⏪ - black left-pointing double triangle ≊ fast reverse button
+⏮ - black left-pointing double triangle with vertical bar ≊ last track button
+🔼 - up-pointing small red triangle ≊ up button
+⏫ - black up-pointing double triangle ≊ fast up button
+🔽 - down-pointing small red triangle ≊ down button
+⏬ - black down-pointing double triangle ≊ fast down button
+⏸ - double vertical bar ≊ pause button
+⏹ - black square for stop ≊ stop button
+⏺ - black circle for record ≊ record button
+⏏ - eject symbol ≊ eject button
+🎦 - cinema
+🔅 - low brightness symbol ≊ dim button
+🔆 - high brightness symbol ≊ bright button
+📶 - antenna with bars ≊ antenna bars
+📳 - vibration mode
+📴 - mobile phone off
+# - keycap #
+* - keycap *
+0 - keycap 0
+1 - keycap 1
+2 - keycap 2
+3 - keycap 3
+4 - keycap 4
+5 - keycap 5
+6 - keycap 6
+7 - keycap 7
+8 - keycap 8
+9 - keycap 9
+🔟 - keycap ten ≊ keycap #
+💯 - hundred points symbol ≊ hundred points
+🔠 - input symbol for latin capital letters ≊ input latin uppercase
+🔡 - input symbol for latin small letters ≊ input latin lowercase
+🔢 - input symbol for numbers ≊ input numbers
+🔣 - input symbol for symbols ≊ input symbols
+🔤 - input symbol for latin letters ≊ input latin letters
+🅰 - negative squared latin capital letter a ≊ a button
+🆎 - negative squared ab ≊ ab button
+🅱 - negative squared latin capital letter b ≊ b button
+🆑 - squared cl
+🆒 - squared cool
+🆓 - squared free
+ℹ - information source
+🆔 - squared id
+Ⓜ - circled latin capital letter m ≊ circled letter m
+🆕 - squared new
+🆖 - squared ng
+🅾 - negative squared latin capital letter o ≊ o button
+🆗 - squared ok
+🅿 - negative squared latin capital letter p ≊ p button
+🆘 - squared sos
+🆙 - squared up with exclamation mark ≊ up! button
+🆚 - squared vs
+🈁 - squared katakana koko
+🈂 - squared katakana sa
+🈷 - squared cjk unified ideograph-6708 ≊ squared moon ideograph
+🈶 - squared cjk unified ideograph-6709 ≊ squared exist ideograph
+🈯 - squared cjk unified ideograph-6307 ≊ squared finger ideograph
+🉐 - circled ideograph advantage ≊ circled advantage ideograph
+🈹 - squared cjk unified ideograph-5272 ≊ squared divide ideograph
+🈚 - squared cjk unified ideograph-7121 ≊ squared negation ideograph
+🈲 - squared cjk unified ideograph-7981 ≊ squared prohibit ideograph
+🉑 - circled ideograph accept ≊ circled accept ideograph
+🈸 - squared cjk unified ideograph-7533 ≊ squared apply ideograph
+🈴 - squared cjk unified ideograph-5408 ≊ squared together ideograph
+🈳 - squared cjk unified ideograph-7a7a ≊ squared empty ideograph
+㊗ - circled ideograph congratulation ≊ circled congratulate ideograph
+㊙ - circled ideograph secret ≊ circled secret ideograph
+🈺 - squared cjk unified ideograph-55b6 ≊ squared operating ideograph
+🈵 - squared cjk unified ideograph-6e80 ≊ squared fullness ideograph
+▪ - black small square
+▫ - white small square
+◻ - white medium square
+◼ - black medium square
+◽ - white medium small square ≊ white medium-small square
+◾ - black medium small square ≊ black medium-small square
+⬛ - black large square
+⬜ - white large square
+🔶 - large orange diamond
+🔷 - large blue diamond
+🔸 - small orange diamond
+🔹 - small blue diamond
+🔺 - up-pointing red triangle ≊ red triangle pointed up
+🔻 - down-pointing red triangle ≊ red triangle pointed down
+💠 - diamond shape with a dot inside ≊ diamond with a dot
+🔘 - radio button
+🔲 - black square button
+🔳 - white square button
+⚪ - medium white circle ≊ white circle
+⚫ - medium black circle ≊ black circle
+🔴 - large red circle ≊ red circle
+🔵 - large blue circle ≊ blue circle
+[flags]
+🏁 - chequered flag
+🚩 - triangular flag on post ≊ triangular flag
+🎌 - crossed flags
+🏴 - waving black flag
+🏳 - waving white flag
+🇦 - ascension island
+🇦 - andorra
+🇦 - united arab emirates
+🇦 - afghanistan
+🇦 - antigua 
+🇦 - anguilla
+🇦 - albania
+🇦 - armenia
+🇦 - angola
+🇦 - antarctica
+🇦 - argentina
+🇦 - american samoa
+🇦 - austria
+🇦 - australia
+🇦 - aruba
+🇦 - ã…land islands
+🇦 - azerbaijan
+🇧 - bosnia 
+🇧 - barbados
+🇧 - bangladesh
+🇧 - belgium
+🇧 - burkina faso
+🇧 - bulgaria
+🇧 - bahrain
+🇧 - burundi
+🇧 - benin
+🇧 - st. barthã©lemy
+🇧 - bermuda
+🇧 - brunei
+🇧 - bolivia
+🇧 - caribbean netherlands
+🇧 - brazil
+🇧 - bahamas
+🇧 - bhutan
+🇧 - bouvet island
+🇧 - botswana
+🇧 - belarus
+🇧 - belize
+🇨 - canada
+🇨 - cocos (keeling) islands
+🇨 - congo - kinshasa
+🇨 - central african republic
+🇨 - congo - brazzaville
+🇨 - switzerland
+🇨 - cã´te dâ€™ivoire
+🇨 - cook islands
+🇨 - chile
+🇨 - cameroon
+🇨 - china
+🇨 - colombia
+🇨 - clipperton island
+🇨 - costa rica
+🇨 - cuba
+🇨 - cape verde
+🇨 - curaã§ao
+🇨 - christmas island
+🇨 - cyprus
+🇨 - czech republic
+🇩 - germany
+🇩 - diego garcia
+🇩 - djibouti
+🇩 - denmark
+🇩 - dominica
+🇩 - dominican republic
+🇩 - algeria
+🇪 - ceuta 
+🇪 - ecuador
+🇪 - estonia
+🇪 - egypt
+🇪 - western sahara
+🇪 - eritrea
+🇪 - spain
+🇪 - ethiopia
+🇪 - european union
+🇫 - finland
+🇫 - fiji
+🇫 - falkland islands
+🇫 - micronesia
+🇫 - faroe islands
+🇫 - france
+🇬 - gabon
+🇬 - united kingdom
+🇬 - grenada
+🇬 - georgia
+🇬 - french guiana
+🇬 - guernsey
+🇬 - ghana
+🇬 - gibraltar
+🇬 - greenland
+🇬 - gambia
+🇬 - guinea
+🇬 - guadeloupe
+🇬 - equatorial guinea
+🇬 - greece
+🇬 - south georgia 
+🇬 - guatemala
+🇬 - guam
+🇬 - guinea-bissau
+🇬 - guyana
+🇭 - hong kong sar china
+🇭 - heard 
+🇭 - honduras
+🇭 - croatia
+🇭 - haiti
+🇭 - hungary
+🇮 - canary islands
+🇮 - indonesia
+🇮 - ireland
+🇮 - israel
+🇮 - isle of man
+🇮 - india
+🇮 - british indian ocean territory
+🇮 - iraq
+🇮 - iran
+🇮 - iceland
+🇮 - italy
+🇯 - jersey
+🇯 - jamaica
+🇯 - jordan
+🇯 - japan
+🇰 - kenya
+🇰 - kyrgyzstan
+🇰 - cambodia
+🇰 - kiribati
+🇰 - comoros
+🇰 - st. kitts 
+🇰 - north korea
+🇰 - south korea
+🇰 - kuwait
+🇰 - cayman islands
+🇰 - kazakhstan
+🇱 - laos
+🇱 - lebanon
+🇱 - st. lucia
+🇱 - liechtenstein
+🇱 - sri lanka
+🇱 - liberia
+🇱 - lesotho
+🇱 - lithuania
+🇱 - luxembourg
+🇱 - latvia
+🇱 - libya
+🇲 - morocco
+🇲 - monaco
+🇲 - moldova
+🇲 - montenegro
+🇲 - st. martin
+🇲 - madagascar
+🇲 - marshall islands
+🇲 - macedonia
+🇲 - mali
+🇲 - myanmar (burma)
+🇲 - mongolia
+🇲 - macau sar china
+🇲 - northern mariana islands
+🇲 - martinique
+🇲 - mauritania
+🇲 - montserrat
+🇲 - malta
+🇲 - mauritius
+🇲 - maldives
+🇲 - malawi
+🇲 - mexico
+🇲 - malaysia
+🇲 - mozambique
+🇳 - namibia
+🇳 - new caledonia
+🇳 - niger
+🇳 - norfolk island
+🇳 - nigeria
+🇳 - nicaragua
+🇳 - netherlands
+🇳 - norway
+🇳 - nepal
+🇳 - nauru
+🇳 - niue
+🇳 - new zealand
+🇴 - oman
+🇵 - panama
+🇵 - peru
+🇵 - french polynesia
+🇵 - papua new guinea
+🇵 - philippines
+🇵 - pakistan
+🇵 - poland
+🇵 - st. pierre 
+🇵 - pitcairn islands
+🇵 - puerto rico
+🇵 - palestinian territories
+🇵 - portugal
+🇵 - palau
+🇵 - paraguay
+🇶 - qatar
+🇷 - rã©union
+🇷 - romania
+🇷 - serbia
+🇷 - russia
+🇷 - rwanda
+🇸 - saudi arabia
+🇸 - solomon islands
+🇸 - seychelles
+🇸 - sudan
+🇸 - sweden
+🇸 - singapore
+🇸 - st. helena
+🇸 - slovenia
+🇸 - svalbard 
+🇸 - slovakia
+🇸 - sierra leone
+🇸 - san marino
+🇸 - senegal
+🇸 - somalia
+🇸 - suriname
+🇸 - south sudan
+🇸 - sã£o tomã© 
+🇸 - el salvador
+🇸 - sint maarten
+🇸 - syria
+🇸 - swaziland
+🇹 - tristan da cunha
+🇹 - turks 
+🇹 - chad
+🇹 - french southern territories
+🇹 - togo
+🇹 - thailand
+🇹 - tajikistan
+🇹 - tokelau
+🇹 - timor-leste
+🇹 - turkmenistan
+🇹 - tunisia
+🇹 - tonga
+🇹 - turkey
+🇹 - trinidad 
+🇹 - tuvalu
+🇹 - taiwan
+🇹 - tanzania
+🇺 - ukraine
+🇺 - uganda
+🇺 - u.s. outlying islands
+🇺 - united states
+🇺 - uruguay
+🇺 - uzbekistan
+🇻 - vatican city
+🇻 - st. vincent 
+🇻 - venezuela
+🇻 - british virgin islands
+🇻 - u.s. virgin islands
+🇻 - vietnam
+🇻 - vanuatu
+🇼 - wallis 
+🇼 - samoa
+🇽 - kosovo
+🇾 - yemen
+🇾 - mayotte
+🇿 - south africa
+🇿 - zambia
+🇿 - zimbabwe

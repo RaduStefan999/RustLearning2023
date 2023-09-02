@@ -1,8 +1,8 @@
 use std::fs;
 use std::fs::File;
-use std::fmt::Write;
+use std::fmt::Write as FormatWrite;
+use std::io::Write as FileWrite;
 use std::collections::HashMap;
-use std::io::Write;
 use serde::Deserialize;
 
 #[derive(Deserialize)]
@@ -59,19 +59,43 @@ fn dump_categorized_data(categorized_data: &HashMap<&str, Vec<&EmojiData>>, outp
 
     for (key, value) in categorized_data
     {
-        writeln!(result, "[{}]", key);
+        if let Err(err) = writeln!(result, "[{}]", key)
+        {
+            println!("Failed to write emoji category");
+            break;
+        }
 
         for emoji in value
         {
-            if emoji.unicode.is_empty() == false
+            if emoji.unicode.is_empty()
             {
-                writeln!(result, "[{}]", emoji.unicode[0]);
+                continue;
+            }
+
+            let emoji_code = u32::from_str_radix(&emoji.unicode[0][2..], 16);
+            if let Err(err) = emoji_code
+            {
+                println!("Error getting emoji code");
+                continue;
+            }
+
+            let emoji_char = char::from_u32(emoji_code.unwrap());
+            if let None = emoji_char
+            {
+                println!("Error converting unicode to valid glyph");
+                continue;
+            }
+
+            if let Err(err) = writeln!(result, "{} - {}", emoji_char.unwrap(), emoji.name)
+            {
+                println!("Failed to write emoji");
+                continue;
             }
         }
     }
 
     let mut file = File::create(output_path)?;
-    file.write_all(result);
+    file.write_all(result.as_bytes())?;
 
     return Ok(());
 }
@@ -79,7 +103,10 @@ fn dump_categorized_data(categorized_data: &HashMap<&str, Vec<&EmojiData>>, outp
 fn categorize(data: &Vec<EmojiData>)
 {
     let categorized_data = get_emoji_per_category(data);
-    dump_categorized_data(&categorized_data, r"D:\personal\RustLabs\RustLearning2023\lab4\res\prob2_output_file.txt");
+    if let Err(err) = dump_categorized_data(&categorized_data, r"D:\personal\RustLabs\RustLearning2023\lab4\res\prob2_output_file.txt")
+    {
+        println!("{err}")
+    }
 }
 
 pub fn prob2_start()
