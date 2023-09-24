@@ -19,7 +19,7 @@
                     "kind": "bin"
                 }
             },
-            "args": ["--in", "D:\\personal\\RustLabs\\RustLearning2023\\lab5\\res\\otto_laptoasa.jpg"],
+            "args": ["--in", "D:\\personal\\RustLabs\\RustLearning2023\\lab5\\res\\otto_laptoasa.txt", "--out", "D:\\personal\\RustLabs\\RustLearning2023\\lab5\\res\\otto_laptoasa_transofrmed.jpg", "--dec"],
             "cwd": "${workspaceFolder}"
         },
         {

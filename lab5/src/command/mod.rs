@@ -21,3 +21,4 @@ impl CommandData {
 }
 
 pub mod basic_command_parser;
+pub mod crate_command_parser;

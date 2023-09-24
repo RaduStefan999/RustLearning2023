@@ -2,9 +2,12 @@ mod file_encoders;
 mod command;
 use crate::command::ConvertType;
 use crate::command::basic_command_parser;
+use crate::command::crate_command_parser;
 
 fn main() {
-    let cmd = basic_command_parser::get_command();
+    //let cmd = basic_command_parser::get_command();
+    let cmd = crate_command_parser::get_command();
+
     if cmd.is_none() {
         println!("Failed to parse command!");
         return;

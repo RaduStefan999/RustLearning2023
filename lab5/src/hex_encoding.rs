@@ -11,7 +11,7 @@ fn hex_char_to_byte(val: char) -> u8
 {
     let val_ascii = val.to_ascii_uppercase() as u8;
     if val_ascii >= b'A' && val_ascii <= b'F' {
-        return val_ascii - b'A';
+        return val_ascii - b'A' + 10;
     }
     else if val_ascii >= b'0' && val_ascii <= b'9' {
         return val_ascii - b'0';

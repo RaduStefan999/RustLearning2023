@@ -55,7 +55,6 @@ pub fn decode_base_16(input_path: &str, output_path: &str) -> Result<(), std::io
 
         for it in (0..buf.len()).into_iter().step_by(2)
         {
-            
             result_holder.push(hex_encoding::hex_to_byte((buf[it] as char, buf[it + 1] as char)));
         }
 
