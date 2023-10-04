@@ -24,17 +24,17 @@ fn find_primes_in_0_100() {
     }
 }
 
-fn are_coprime(lh: u64, rh: u64) -> bool {
-    let cmmdc = |mut lh: u64, mut rh: u64| -> u64 {
+fn are_coprime(mut lh: u64, mut rh: u64) -> bool {
+    let cmmdc = {
         while rh != 0 {
             let aux = lh % rh;
             lh = rh;
             rh = aux;
         }
-        return lh;
+        lh
     };
 
-    return cmmdc(lh, rh) == 1;
+    return cmmdc == 1;
 }
 
 fn find_coprimes_in_0_100() {
@@ -51,21 +51,19 @@ fn find_coprimes_in_0_100() {
 fn play_99_bottles() {
     let mut nr_of_bottles = 99;
 
-    loop {
-        if nr_of_bottles == 0 {
-            println!("No bottles of beer on the wall.");
-            break;
-        }
-
+    while nr_of_bottles != 0 {
         println!("{} bottles of beer on the wall,", nr_of_bottles);
         println!("{} bottles of beer.", nr_of_bottles);
         println!("Take one down, pass it around,");
+
         nr_of_bottles -= 1;
     }
+
+    println!("No bottles of beer on the wall.");
 }
 
 fn main() {
-    //find_primes_in_0_100();
-    //find_coprimes_in_0_100();
+    find_primes_in_0_100();
+    find_coprimes_in_0_100();
     play_99_bottles();
 }
