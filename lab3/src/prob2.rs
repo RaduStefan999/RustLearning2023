@@ -1,36 +1,21 @@
-struct Canvas([[char; 50]; 10]);
-
-impl Canvas
-{
-    fn set_point(&mut self, x: u8, y: u8, val: char)
-    {
-        if (x as usize) < self.0.len() && (y as usize) < self.0[0].len()
-        {
-            self.0[x as usize][y as usize] = val;
-        }
+fn checked_addition(lh: u32, rh: u32) -> u32 {
+    if lh as u64 + rh as u64 > u32::MAX as u64 {
+        panic!("Checked addition result does not fit in u32");
     }
-
-    fn print_canvas(&self)
-    {
-        for line in self.0
-        {
-            for element in line
-            {
-                print!("{}", element);
-            }
-            println!("");
-        }
-    }
+    return lh + rh;
 }
 
-pub fn prob2_start()
-{
-    let mut canvas = Canvas([[' '; 50]; 10]);
-    canvas.set_point(1, 1, 'M');
-    canvas.set_point(2, 2, 'a');
-    canvas.set_point(3, 3, 'l');
-    canvas.set_point(4, 4, 'i');
-    canvas.set_point(5, 5, 'n');
-    canvas.set_point(6, 6, 'a');
-    canvas.print_canvas();
+fn checked_multiplication(rh: u32, lh: u32) -> u32 {
+    if lh as u64 * rh as u64 > u32::MAX as u64 {
+        panic!("Checked multiplication result doaes not fit in u32");
+    }
+
+    return lh * rh;
+}
+
+pub fn prob2_start() {
+    println!("{}", checked_addition(10, 20));
+    println!("{}", checked_addition(u32::MAX, 1));
+    println!("{}", checked_multiplication(14, 24));
+    println!("{}", checked_multiplication(1 << 16, 1 << 17));
 }

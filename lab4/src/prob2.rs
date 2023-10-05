@@ -1,118 +1,81 @@
-use std::fs;
-use std::fs::File;
-use std::fmt::Write as FormatWrite;
-use std::io::Write as FileWrite;
-use std::collections::HashMap;
-use serde::Deserialize;
+use std::{io, fs};
 
-#[derive(Deserialize)]
-struct EmojiData
+fn rotate_primitive(ch: char, a_cod: u32, z_cod: u32, rot_by: u32) -> char
 {
-    name: String,
-    category: String,
-    group: String,
-    htmlCode: Vec<String>,
-    unicode: Vec<String>
+    return char::from_u32((ch as u32 - a_cod + rot_by) % (z_cod - a_cod + 1) + a_cod).unwrap();
 }
 
-fn get_emoji_data_raw(remote_uri: &str) -> Result<String, std::io::Error>
+fn rotate_lowercase(ch: char, rot_by: u8) -> char
 {
-    let resp = ureq::get(remote_uri).call().into_string()?;
-    return Ok(resp);
+    return rotate_primitive(ch, 'a' as u32, 'z' as u32, rot_by as u32);
 }
 
-fn get_emoji_data(remote_uri: &str) -> Option<Vec<EmojiData>>
+fn rotate_uppercase(ch: char, rot_by: u8) -> char
 {
-    let data = get_emoji_data_raw(remote_uri);
-    if let Err(err) = data
-    {
-        println!("Io error");
-        return None;
-    }
-    let data = data.unwrap();
+    return rotate_primitive(ch, 'A' as u32, 'Z' as u32, rot_by as u32);
+}
 
-    let deserialized_data:  Result<Vec<EmojiData>, _> = serde_json::from_str(&data);
-    if let Err(err) = deserialized_data
+fn rotate_ch(ch: char, rot_by: u8) -> Result<char, String>
+{
+    if ch.is_ascii() == false
     {
-        println!("Format error");
-        return None;
+        return Err(String::from("Given char is not ascii"));
     }
 
-    return Some(deserialized_data.unwrap());
-}
-
-fn get_emoji_per_category(data: &Vec<EmojiData>) -> HashMap<&str, Vec<&EmojiData>>
-{
-    let mut result_map = HashMap::<&str, Vec<&EmojiData>>::new();
-
-    for emoji in data
+    if ch.is_alphabetic() == false
     {
-        result_map.entry(emoji.category.as_str()).or_insert(Vec::<&EmojiData>::new()).push(emoji);
+        return Ok(ch);
     }
 
-    return result_map;
+    if ch.is_ascii_uppercase()
+    {
+        return Ok(rotate_uppercase(ch, rot_by));
+    }
+
+    return Ok(rotate_lowercase(ch, rot_by));
 }
 
-fn dump_categorized_data(categorized_data: &HashMap<&str, Vec<&EmojiData>>, output_path: &str) -> Result<(), std::io::Error>
+fn rotate_str_13(sir: &String) -> Result<String, String>
 {
-    let mut result: String = String::new();
+    let mut res: String = String::from("");
 
-    for (key, value) in categorized_data
+    for ch in sir.chars()
     {
-        if let Err(err) = writeln!(result, "[{}]", key)
-        {
-            println!("Failed to write emoji category");
-            break;
-        }
-
-        for emoji in value
-        {
-            if emoji.unicode.is_empty()
-            {
-                continue;
-            }
-
-            let emoji_code = u32::from_str_radix(&emoji.unicode[0][2..], 16);
-            if let Err(err) = emoji_code
-            {
-                println!("Error getting emoji code");
-                continue;
-            }
-
-            let emoji_char = char::from_u32(emoji_code.unwrap());
-            if let None = emoji_char
-            {
-                println!("Error converting unicode to valid glyph");
-                continue;
-            }
-
-            if let Err(err) = writeln!(result, "{} - {}", emoji_char.unwrap(), emoji.name)
-            {
-                println!("Failed to write emoji");
-                continue;
-            }
+        match rotate_ch(ch, 13) {
+            Ok(rotated_ch) => res.push(rotated_ch),
+            Err(error) => return Err(error)
         }
     }
 
-    let mut file = File::create(output_path)?;
-    file.write_all(result.as_bytes())?;
-
-    return Ok(());
+    return Ok(res);
 }
 
-fn categorize(data: &Vec<EmojiData>)
+fn read_and_rot_13(path: &str)
 {
-    let categorized_data = get_emoji_per_category(data);
-    if let Err(err) = dump_categorized_data(&categorized_data, r"D:\personal\RustLabs\RustLearning2023\lab4\res\prob2_output_file.txt")
+    let sir: String;
+    
+    if let Ok(res) = fs::read_to_string(path)
     {
-        println!("{err}")
+        sir = res;
+    }
+    else 
+    {
+        println!("Error while reading from file {path}");
+        return;
+    }
+
+    let rot_return = rotate_str_13(&String::from(sir));
+    if let Ok(res) = rot_return
+    {
+        println!("{res}");
+    }
+    else
+    {
+        println!("{}", rot_return.unwrap_err());
     }
 }
 
 pub fn prob2_start()
 {
-    if let Some(data) = get_emoji_data("http://127.0.0.1/get_data")
-    {
-        categorize(&data);
-    }
+    read_and_rot_13(r"D:\personal\RustLabs\RustLearning2023\lab2\res\prob2_file.txt");
 }

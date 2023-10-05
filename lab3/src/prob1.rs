@@ -1,86 +1,43 @@
-use std::{io, fs, ops::Deref};
-
-#[derive(Clone)]
-struct StudentData
-{
-    name: String,
-    phone_number: String,
-    age: u32
-}
-
-enum ReadIntoStructureErrors<'a>
-{
-    IO(io::Error),
-    Format(&'a str)
-}
-
-fn read_into_structure(file_path: &str) -> Result<Vec<StudentData>, ReadIntoStructureErrors>
-{
-    let mut result: Vec<StudentData> = Vec::new();
-    let text: String;
-
-    match fs::read_to_string(file_path) {
-        Err(err) => return Err(ReadIntoStructureErrors::IO(err)),
-        Ok(ok_text) => text = ok_text
+fn is_nr_prime(nr: u16) -> bool {
+    if nr < 2 {
+        return false;
     }
-
-    for line in text.lines()
-    {
-        let mut line_split_iter = line.split(',');
-
-        let name = line_split_iter.nth(0);
-        let phone_nr = line_split_iter.nth(0);
-        let age = line_split_iter.nth(0);
-
-        if name.is_none() || phone_nr.is_none() || age.is_none()
-        {
-            return Err(ReadIntoStructureErrors::Format("Cannot read field"));
+    if nr == 2 {
+        return true;
+    }
+    if nr % 2 == 0 {
+        return false;
+    }
+    let mut it: u16 = 3;
+    while it < ((nr as f32).sqrt() as u16 + 1) {
+        if nr % it == 0 {
+            return false;
         }
-
-        let age_nr: Result<u32, _> =  age.unwrap().parse();
-
-        if age_nr.is_err()
-        {
-            return Err(ReadIntoStructureErrors::Format("Age is not a number"));
-        }
-
-        let current_student = StudentData{
-            name: String::from(name.unwrap()), 
-            phone_number: String::from(phone_nr.unwrap()), 
-            age: age_nr.unwrap()
-        };
-
-        result.push(current_student);
+        it += 2;
     }
 
-    return Ok(result);
+    return true;
 }
 
-fn sort_and_print(data: &Vec<StudentData>)
-{
-    let mut data_clone: Vec<StudentData> = data.deref().to_vec();
-    data_clone.sort_by(|lh, rh| lh.age.cmp(&rh.age));
+fn find_next_prime(current_prime: u16) -> Option<u16> {
+    let mut current_nr = current_prime;
 
-    for student in data_clone
-    {
-        println!("Name: {}, Phone number: {}, Age: {}", student.name, student.phone_number, student.age);
+    while current_nr + 1 < u16::MAX {
+        current_nr += 1;
+
+        if is_nr_prime(current_nr) {
+            return Some(current_nr);
+        }
     }
+
+    return None;
 }
 
-pub fn prob1_start()
-{
-    let result = read_into_structure(r"D:\personal\RustLabs\RustLearning2023\lab3\res\prob1_file.txt");
+pub fn prob1_start() {
+    let mut current_number: u16 = 2;
 
-    if let Err(result_err) = result
-    {
-        match result_err {
-            ReadIntoStructureErrors::IO(err) => println!("{}", err),
-            ReadIntoStructureErrors::Format(err) => print!("{}", err)
-        }
-        return;
-    }
-    else if let Ok(result_ok) = result
-    {
-        sort_and_print(&result_ok);
+    while let Some(u_val) = find_next_prime(current_number) {
+        current_number = u_val;
+        println!("{u_val}");
     }
 }
