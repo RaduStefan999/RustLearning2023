@@ -14,8 +14,8 @@ fn checked_multiplication(rh: u32, lh: u32) -> u32 {
 }
 
 pub fn prob2_start() {
-    //println!("{}", checked_addition(10, 20));
-    //println!("{}", checked_addition(u32::MAX, 1));
-    //println!("{}", checked_multiplication(14, 24));
+    println!("{}", checked_addition(10, 20));
+    println!("{}", checked_addition(u32::MAX, 1));
+    println!("{}", checked_multiplication(14, 24));
     println!("{}", checked_multiplication(1 << 16, 1 << 17));
 }

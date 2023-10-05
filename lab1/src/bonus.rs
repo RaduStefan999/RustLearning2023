@@ -2,13 +2,13 @@ use thiserror::Error;
 
 #[derive(Error, Debug)]
 enum AccessErr {
-    #[error("Index is outside array bounds")]
-    AccessOutsideBounds
+    #[error("Index is outside array bounds: {0}")]
+    AccessOutsideBounds(usize)
 }
 
 fn get_at_idx(arr: &[u64], cap: usize, idx: usize) -> Result<u64, AccessErr> {
     if idx >= cap {
-        return Err(AccessErr::AccessOutsideBounds);
+        return Err(AccessErr::AccessOutsideBounds(idx));
     }
 
     return Ok(arr[idx]);

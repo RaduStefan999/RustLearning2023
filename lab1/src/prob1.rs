@@ -36,7 +36,7 @@ fn find_next_prime(current_prime: u16) -> Option<u16> {
 pub fn prob1_start() {
     let mut current_number: u16 = 2;
 
-    while let Option::Some(u_val) = find_next_prime(current_number) {
+    while let Some(u_val) = find_next_prime(current_number) {
         current_number = u_val;
         println!("{u_val}");
     }

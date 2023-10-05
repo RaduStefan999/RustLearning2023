@@ -3,7 +3,7 @@ enum CMMDCErrCodes {
     OneNrIsZero
 }
 
-fn str_to_nr(sir: &String) -> Option<u64> {
+fn str_to_nr(sir: &str) -> Option<u64> {
     let mut num: u64 = 0;
     let sir_bytes = sir.as_bytes();
     
@@ -18,7 +18,7 @@ fn str_to_nr(sir: &String) -> Option<u64> {
     return Some(num);
 }
 
-fn cmmdc(lh: &String, rh: &String) -> Result<u64, CMMDCErrCodes> {
+fn cmmdc(lh: &str, rh: &str) -> Result<u64, CMMDCErrCodes> {
     let mut lh_nr: u64;
     let mut rh_nr: u64;
 
@@ -46,7 +46,7 @@ fn cmmdc(lh: &String, rh: &String) -> Result<u64, CMMDCErrCodes> {
 
 
 pub fn prb5_start() {
-    match cmmdc(&String::from("144"), &String::from("84")) {
+    match cmmdc("144", "84") {
         Ok(i_val) => println!("{}", i_val),
         Err(CMMDCErrCodes::CouldNotParseStrings) => println!("Invalid strings"),
         Err(CMMDCErrCodes::OneNrIsZero) => println!("One of the given numbers is zero")

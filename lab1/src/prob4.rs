@@ -8,7 +8,7 @@ enum CharOpErr {
 }
 
 fn to_uppercase(val: char) -> Result<char, CharOpErr> {
-    if val.is_alphabetic() == false {
+    if !val.is_alphabetic() {
         return Err(CharOpErr::CharNotLetter);
     }
 
@@ -20,7 +20,7 @@ fn to_uppercase(val: char) -> Result<char, CharOpErr> {
 }
 
 fn to_lowercase(val: char) -> Result<char, CharOpErr> {
-    if val.is_alphabetic() == false {
+    if !val.is_alphabetic() {
         return Err(CharOpErr::CharNotLetter);
     }
 
@@ -40,11 +40,11 @@ fn print_char(val: char) -> Result<(), CharOpErr> {
 }
 
 fn char_to_number(val: char) -> Result<u32, CharOpErr> {
-    if val.is_ascii() == false {
+    if !val.is_ascii() {
         return Err(CharOpErr::CharNotASCII);
     }
 
-    if val.is_ascii_digit() == false {
+    if !val.is_ascii_digit() {
         return Err(CharOpErr::CharNotDigit);
     }
 
@@ -57,11 +57,11 @@ fn char_to_number(val: char) -> Result<u32, CharOpErr> {
 }
 
 fn char_to_number_hex(val: char) -> Result<u32, CharOpErr> {
-    if val.is_ascii() == false {
+    if !val.is_ascii() {
         return Err(CharOpErr::CharNotASCII);
     }
 
-    if val.is_ascii_hexdigit() == false {
+    if !val.is_ascii_hexdigit() {
         return Err(CharOpErr::CharNotBase16);
     }
 
