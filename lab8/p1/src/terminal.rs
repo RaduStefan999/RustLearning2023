@@ -14,6 +14,24 @@ impl Terminal {
         self.suported_commands.push(cmd);
     }
 
+    fn get_sugested_command(&self, cmd: &str) -> Option<&str> {
+        let searched_cmd_name = cmd.to_lowercase();
+        if searched_cmd_name.len() == 0 {
+            return None;
+        }
+
+        for command_obj in self.suported_commands.iter() {
+            let current_cmd_name = command_obj.get_name().to_lowercase();
+            if current_cmd_name.len() == 0 {
+                continue;
+            }
+            if searched_cmd_name.chars().nth(0).unwrap() == current_cmd_name.chars().nth(0).unwrap() {
+                return Some(command_obj.get_name());
+            }
+        }
+        return None;
+    }
+
     fn process_cmd(&mut self, cmd: &str) -> bool {
         let args: Vec<&str> = cmd.split(" ").collect();
         if args.len() == 0 {
@@ -33,6 +51,11 @@ impl Terminal {
         }
 
         println!("Unknown command {}", args[0]);
+
+        if let Some(sugestion) = self.get_sugested_command(cmd) {
+            println!("Din you mean? {}", sugestion)
+        }
+
         return true;
     }
 
