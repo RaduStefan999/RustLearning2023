@@ -10,11 +10,7 @@ impl Terminal {
         return Terminal{suported_commands: vec![]}
     }
 
-    pub fn register(&mut self, mut cmd: Box<dyn Command>) {
-        if let Err(err) = cmd.init() {
-            println!("{}", err);
-            return;
-        }
+    pub fn register(&mut self, cmd: Box<dyn Command>) {
         self.suported_commands.push(cmd);
     }
 
