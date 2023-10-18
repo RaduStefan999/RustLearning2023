@@ -21,12 +21,40 @@ fn add_str(s: &mut String, sir: &str) {
     s.push_str(sir);
 }
 
-fn add_integer(s: &mut String, nr: u64) {
-    s.push_str(nr.to_string().as_str());
+fn i_to_str(mut nr: u64) -> String {
+    let mut rev = String::from("");
+
+    while nr > 0 {
+        let ch = char::from(b'0' + ((nr%10) as u8));
+        rev.push(ch);
+        nr /= 10;
+    }
+
+    return rev.chars().rev().collect();
 }
 
-fn add_float(s: &mut String, nr: f64) {
-    s.push_str(nr.to_string().as_str());
+fn add_integer(s: &mut String, nr: u64) {
+    let nr = i_to_str(nr);
+
+    for (idx, ch) in nr.chars().enumerate() {
+        if idx % 3 == 0 && idx != 0 {
+            s.push('_');
+        }
+        s.push(ch);
+    }
+}
+
+fn add_float(s: &mut String, nr: f32) {
+    let i_part = nr as u64;
+    let mut f_part = nr - (i_part as f32) + 1.0;
+    while f_part - ((f_part as u64) as f32) > 0.01  {
+        f_part *= 10.0;
+    }
+    let f_part = f_part as u64;
+
+    s.push_str(&i_to_str(i_part));
+    s.push('.');
+    s.push_str(&i_to_str(f_part)[1..]);
 }
 
 fn prob3() {
@@ -50,11 +78,7 @@ fn prob3() {
     add_space(sir_ref, 12);
     add_str(sir_ref, "crate");
     add_space(sir_ref, 6);
-    add_integer(sir_ref, 306);
-    add_str(sir_ref, "_");
-    add_integer(sir_ref, 437);
-    add_str(sir_ref, "_");
-    add_integer(sir_ref, 968);
+    add_integer(sir_ref, 306_437_968);
     add_space(sir_ref, 11);
     add_str(sir_ref, "and");
     add_space(sir_ref, 5);
@@ -90,11 +114,7 @@ fn prob3_smart() {
     add_str(&mut version, ".");
 
     let mut nr: String = String::from("");
-    add_integer(&mut nr, 306);
-    add_str(&mut nr, "_");
-    add_integer(&mut nr, 437);
-    add_str(&mut nr, "_");
-    add_integer(&mut nr, 968);
+    add_integer(&mut nr, 306_437_968);
 
     let words = [
         spaces,
