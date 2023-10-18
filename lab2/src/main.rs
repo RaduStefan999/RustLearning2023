@@ -65,7 +65,7 @@ fn prob3() {
 
     add_space(sir_ref, 9);
     add_str(sir_ref, "downloaded");
-    add_space(sir_ref, 8);
+    add_space(sir_ref, 7);
     add_str(sir_ref, "has");
     add_space(sir_ref, 13);
     add_str(sir_ref, "downloads");
@@ -81,10 +81,74 @@ fn prob3() {
 
 }
 
+fn prob3_smart() {
+    let mut spaces: String = String::from("");
+    add_space(&mut spaces, 2);
+
+    let mut version: String = String::from("");
+    add_float(&mut version, 2.038);
+    add_str(&mut version, ".");
+
+    let mut nr: String = String::from("");
+    add_integer(&mut nr, 306);
+    add_str(&mut nr, "_");
+    add_integer(&mut nr, 437);
+    add_str(&mut nr, "_");
+    add_integer(&mut nr, 968);
+
+    let words = [
+        spaces,
+        String::from("Most"), 
+        String::from("downloaded"), 
+        String::from("crate"),
+        String::from("has"), 
+        nr,
+        String::from("downloads"), 
+        String::from("and"),
+        String::from("the"),
+        String::from("lastest"),
+        String::from("version"),
+        String::from("is"),
+        version
+    ];
+
+    let mut build_sir = String::from("");
+    let sir_ref = &mut build_sir;
+
+    add_space(sir_ref, 40);
+    add_str(sir_ref, "I");
+    add_space(sir_ref, 1);
+    add_str(sir_ref, "💚");
+    add_str(sir_ref, "\n");
+
+    add_space(sir_ref, 40);
+    add_str(sir_ref, "RUST.");
+    add_str(sir_ref, "\n");
+
+    add_str(sir_ref, "\n");
+
+    for it in (1..words.len()).step_by(2) {
+        add_space(&mut build_sir, words[it - 1].len() as u32 + 2);
+        add_str(&mut build_sir, &words[it]);
+    }
+    add_space(&mut build_sir, words[words.len() - 1].len() as u32 + 2);
+    add_str(&mut build_sir, "\n");
+
+    add_space(&mut build_sir, 1);
+    for it in (0..words.len()).step_by(2) {
+        add_str(&mut build_sir, &words[it]);
+        if it < words.len() - 1 {
+            add_space(&mut build_sir, words[it + 1].len() as u32 + 2);
+        }
+    }
+    print!("{}", build_sir);
+
+}
 
 fn main() {
     prob3();
-    
+    println!("\n\n\n");
+    prob3_smart();
     println!("\n\n\n");
 
     let mut s = String::from("");
