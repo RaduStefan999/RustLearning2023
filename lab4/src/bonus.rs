@@ -78,7 +78,12 @@ fn rotate(input_path: &str, output_path: &str, rot_by: u8) {
 
     let mut buf_mem = [0u8; CHUNK_SIZE];
 
-    while let Ok(n) = input.read(&mut buf_mem) {
+    loop
+    {
+        let n = match input.read(&mut buf_mem) {
+            Ok(n) => n,
+            Err(err) => { println!("Failed to read from file: {err}"); return; }
+        };
         if n == 0 {
             break;
         }
