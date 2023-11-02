@@ -54,9 +54,9 @@ fn rotate(input_path: &str, output_path: &str, rot_by: u8) {
             break;
         }
 
-        rotate_in_place(&mut buf_mem, rot_by);
+        rotate_in_place(&mut buf_mem[0..n-1], rot_by);
 
-        match output.write(&buf_mem) {
+        match output.write_all(&buf_mem[0..n-1]) {
             Ok(_) => (),
             Err(err) => println!("Error writing to output file {err}")
         }
