@@ -17,12 +17,12 @@ fn rotate_uppercase(ch: char, rot_by: u8) -> char
 
 fn rotate_ch(ch: char, rot_by: u8) -> Result<char, String>
 {
-    if ch.is_ascii() == false
+    if !ch.is_ascii()
     {
         return Err(String::from("Given char is not ascii"));
     }
 
-    if ch.is_alphabetic() == false
+    if !ch.is_alphabetic()
     {
         return Ok(ch);
     }
@@ -50,7 +50,7 @@ fn rotate_str_13(sir: &String) -> Result<String, String>
     return Ok(res);
 }
 
-fn read_and_rot_13(path: &str)
+pub fn read_and_rot_13(path: &str, output_path: Option<&str>)
 {
     let sir: String;
     
@@ -65,17 +65,23 @@ fn read_and_rot_13(path: &str)
     }
 
     let rot_return = rotate_str_13(&String::from(sir));
-    if let Ok(res) = rot_return
-    {
-        println!("{res}");
+    let contents = match rot_return {
+        Ok(contents_res) => contents_res,
+        Err(err) => { print!("{:?}", err); return; }
+    };
+
+    if let Some(path) = output_path {
+        match fs::write(path, contents) {
+            Ok(_) => print!("Written to file"),
+            Err(err) => print!("{}", err)
+        }
+        return;
     }
-    else
-    {
-        println!("{}", rot_return.unwrap_err());
-    }
+
+    print!("{}", contents);
 }
 
 pub fn prob2_start()
 {
-    read_and_rot_13(r"D:\personal\RustLabs\RustLearning2023\lab2\res\prob2_file.txt");
+    read_and_rot_13(r"D:\personal\RustLabs\RustLearning2023\lab2\res\prob2_file.txt", None);
 }
