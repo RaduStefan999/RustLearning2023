@@ -49,10 +49,10 @@ fn rotate_in_place(data: &mut [u8], rot_by: u8) {
         if data[it] > 127 {
             panic!("This string should only contain ASCII");
         }
-        if data[it] >= b'a' && b'z' <= data[it] {
+        if data[it] >= b'a' && data[it] <= b'z' {
             data[it] = rotate_lowercase(data[it], rot_by);
         }
-        else if data[it] >= b'A' && b'Z' <= data[it] {
+        else if data[it] >= b'A' && data[it] <= b'Z' {
             data[it] = rotate_uppercase(data[it], rot_by);
         }
         
