@@ -1,4 +1,4 @@
-use std::{fs, io::{self, BufRead, Read, Write}};
+use std::{fs, io::{self, Read, Write}};
 use crate::prob2;
 use std::io::BufReader;
 use std::io::BufWriter;

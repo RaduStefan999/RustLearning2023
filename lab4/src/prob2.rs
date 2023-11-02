@@ -1,4 +1,4 @@
-use std::{io, fs};
+use std::fs;
 
 fn rotate_primitive(ch: char, a_cod: u32, z_cod: u32, rot_by: u32) -> char
 {
@@ -35,16 +35,13 @@ fn rotate_ch(ch: char, rot_by: u8) -> Result<char, String>
     return Ok(rotate_lowercase(ch, rot_by));
 }
 
-fn rotate_str_13(sir: &String) -> Result<String, String>
+fn rotate_str_13(sir: &str) -> Result<String, String>
 {
     let mut res: String = String::from("");
 
     for ch in sir.chars()
     {
-        match rotate_ch(ch, 13) {
-            Ok(rotated_ch) => res.push(rotated_ch),
-            Err(error) => return Err(error)
-        }
+        res.push(rotate_ch(ch, 13)?);
     }
 
     return Ok(res);

@@ -29,13 +29,12 @@ pub fn prob4_start()
 {
     let result = read_and_format_hosts_file(r"C:\Windows\System32\drivers\etc\services");
 
-    if result.is_err()
-    {
-        println!("{:?}", result.unwrap_err());
-        return;
-    }
+    let result_ok = match result {
+        Ok(res) => res,
+        Err(err) => { println!("{:?}", err); return; }
+    };
 
-    for (ip, host) in result.unwrap()
+    for (ip, host) in result_ok
     {
         println!("{} => {}", ip, host);
     }

@@ -41,7 +41,7 @@ fn read_abrevations(file_path: &str) -> Result<Vec<(String, String)>, ReadAbreva
 
 fn replace_abrevations(input_text: &str, abrevation_definitions: Vec<(String, String)>) -> String
 {
-    let mut resulting_words: Vec<String> = Vec::new();
+    let mut resulting_words = String::with_capacity(input_text.len() * 5);
     let operation_text = String::from(input_text);
 
     'outer: for word in operation_text.split(" ")
@@ -50,14 +50,23 @@ fn replace_abrevations(input_text: &str, abrevation_definitions: Vec<(String, St
         {
             if word == abrevation
             {
-                resulting_words.push(abrevated_word.clone());
+                if !resulting_words.is_empty() {
+                    resulting_words.push_str(" ");
+                }
+                
+                resulting_words.push_str(abrevated_word);
                 continue 'outer;
             }
         }
-        resulting_words.push(word.to_string());
+        
+        if !resulting_words.is_empty() {
+            resulting_words.push_str(" ");
+        }
+
+        resulting_words.push_str(word);
     }
 
-    return resulting_words.join(" ");
+    return resulting_words;
 }
 
 fn substitute_abrevations()
