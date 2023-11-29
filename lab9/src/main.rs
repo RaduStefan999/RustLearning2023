@@ -12,26 +12,26 @@ impl Complex {
     where
         f64: From<R> + From<I>,
     {
-        return Complex {
+        Complex {
             real: f64::from(real),
             imag: f64::from(imag),
-        };
+        }
     }
 
     fn conjugate(&self) -> Self {
-        return Complex::new(self.real, -self.imag);
+        Complex::new(self.real, -self.imag)
     }
 }
 
 impl From<i32> for Complex {
     fn from(value: i32) -> Self {
-        return Complex::new(value, 0);
+        Complex::new(value, 0)
     }
 }
 
 impl From<f64> for Complex {
     fn from(value: f64) -> Self {
-        return Complex::new(value, 0);
+        Complex::new(value, 0)
     }
 }
 
@@ -43,7 +43,7 @@ where
 
     fn add(self, rhs: T) -> Self::Output {
         let rhs = rhs.into();
-        return Complex::new(self.real + rhs.real, self.imag + rhs.imag);
+        Complex::new(self.real + rhs.real, self.imag + rhs.imag)
     }
 }
 
@@ -66,7 +66,7 @@ where
 
     fn sub(self, rhs: T) -> Self::Output {
         let rhs = rhs.into();
-        return Complex::new(self.real - rhs.real, self.imag - rhs.imag);
+        Complex::new(self.real - rhs.real, self.imag - rhs.imag)
     }
 }
 
@@ -89,10 +89,10 @@ where
 
     fn mul(self, rhs: T) -> Self::Output {
         let rhs = rhs.into();
-        return Complex::new(
+        Complex::new(
             self.real * rhs.real - self.imag * rhs.imag,
             self.real * rhs.imag + self.imag * rhs.real,
-        );
+        )
     }
 }
 
@@ -112,14 +112,14 @@ impl Neg for Complex {
     type Output = Complex;
 
     fn neg(self) -> Self::Output {
-        return Complex::new(-self.real, -self.imag);
+        Complex::new(-self.real, -self.imag)
     }
 }
 
 impl Display for Complex {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         if eq_rel(self.real, 0f64) && eq_rel(self.imag, 0f64) {
-            write!(f, "{}", "0")?;
+            write!(f, "0")?;
         } else if eq_rel(self.real, 0f64) {
             write!(f, "{:.0}i", self.imag)?;
         } else if eq_rel(self.imag, 0f64) {
